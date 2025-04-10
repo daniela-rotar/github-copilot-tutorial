@@ -38,43 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    }
-    ,
+    },
     "Basketball Team": {
-        "description": "Join the basketball team and compete in local tournaments",
+        "description": "Join the school basketball team and compete in tournaments",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 6:00 PM",
         "max_participants": 15,
-        "participants": ["liam@mergington.edu", "noah@mergington.edu"]
+        "participants": ["james@mergington.edu", "lily@mergington.edu"]
     },
     "Soccer Club": {
-        "description": "Practice soccer skills and participate in matches",
-        "schedule": "Wednesdays and Fridays, 3:30 PM - 5:30 PM",
+        "description": "Practice soccer and participate in friendly matches",
+        "schedule": "Wednesdays and Fridays, 3:00 PM - 5:00 PM",
         "max_participants": 20,
-        "participants": ["ava@mergington.edu", "mia@mergington.edu"]
+        "participants": ["noah@mergington.edu", "ava@mergington.edu"]
     },
     "Art Workshop": {
-        "description": "Explore painting, sketching, and other art forms",
-        "schedule": "Mondays, 3:00 PM - 4:30 PM",
+        "description": "Explore painting, drawing, and other artistic techniques",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
         "max_participants": 10,
-        "participants": ["isabella@mergington.edu", "amelia@mergington.edu"]
+        "participants": ["mia@mergington.edu", "lucas@mergington.edu"]
     },
-    "Photography Club": {
-        "description": "Learn photography techniques and participate in photo walks",
-        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
-        "max_participants": 12,
-        "participants": ["elijah@mergington.edu", "lucas@mergington.edu"]
+    "Drama Club": {
+        "description": "Learn acting skills and participate in school plays",
+        "schedule": "Thursdays, 3:30 PM - 5:30 PM",
+        "max_participants": 15,
+        "participants": ["amelia@mergington.edu", "ethan@mergington.edu"]
     },
-    "Pottery Class": {
-        "description": "Create pottery and learn ceramic art techniques",
-        "schedule": "Fridays, 3:00 PM - 4:30 PM",
-        "max_participants": 8,
-        "participants": ["charlotte@mergington.edu", "harper@mergington.edu"]
+    "Math Club": {
+        "description": "Solve challenging math problems and prepare for competitions",
+        "schedule": "Mondays, 3:30 PM - 4:30 PM",
+        "max_participants": 25,
+        "participants": ["logan@mergington.edu", "isabella@mergington.edu"]
     },
-    "Knitting Club": {
-        "description": "Learn knitting and create handmade crafts",
-        "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
-        "max_participants": 10,
-        "participants": ["evelyn@mergington.edu", "abigail@mergington.edu"]
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific concepts",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["elijah@mergington.edu", "sophia@mergington.edu"]
     }
 }
 
